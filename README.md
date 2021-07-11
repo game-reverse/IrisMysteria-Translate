@@ -1,6 +1,6 @@
 # IrisMysteria-CloudTranslate
 ### 爱丽丝圣礼个人机翻补丁，内容与梦之圣礼汉化组完全无关  
-### 目前只支持iOS端，非iOS端无法安装，未来将增加多平台支持
+### 目前支持iOS端和网页端，安卓端正在研究，未来将增加多平台支持
 ### [使用说明请见Wiki](https://github.com/greenjerry/IrisMysteria-CloudTranslate/wiki)
 ## 注意：
 * 机翻部分势必存在语义曲解，错别字，漏翻，无法打开等问题，观感远低于精翻补丁，部分语句看不懂，建议有一定日语水平能力者选择生肉  
