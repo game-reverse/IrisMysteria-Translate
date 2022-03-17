@@ -1,11 +1,11 @@
 [REWRITE]
-^https://[a-zA-Z]*.cdn.aimia.dmmgames.com/(.*)/mDressSkills url 302 https://imys.beaa.cn/masterdata/mDressSkills
-^https://[a-zA-Z]*.cdn.aimia.dmmgames.com/(.*)/mDressAbilities url 302 https://imys.beaa.cn/masterdata/mDressAbilities
-^https://[a-zA-Z]*.cdn.aimia.dmmgames.com/(.*)/mUnits url 302 https://imys.beaa.cn/masterdata/mUnits
-^https://[a-zA-Z]*.cdn.aimia.dmmgames.com/(.*)/mQuests url 302 https://imys.beaa.cn/masterdata/mQuests
-^https://[a-zA-Z]*.cdn.aimia.dmmgames.com/(.*)/mTips url 302 https://imys.beaa.cn/masterdata/mTips
-^https://[a-zA-Z]*.cdn.aimia.dmmgames.com/[0-9]*_[0-9]*/assetbundle/iOS/scenarios/ url 302 https://imys.beaa.cn/scenarios/
-^https://[a-zA-Z]*.cdn.aimia.dmmgames.com/[0-9]*_[0-9]*/assetbundle/iOS/common/fonts/fot-hummingstd-b%20sdf url 302 https://imys.beaa.cn/common/fonts/fot-hummingstd-b%20sdf
+^https://[a-zA-Z]*.cdn.aimia.dmmgames.com/(.*)/mDressSkills url 302 https://imys.xdrv.cn/masterdata/mDressSkills
+^https://[a-zA-Z]*.cdn.aimia.dmmgames.com/(.*)/mDressAbilities url 302 https://imys.xdrv.cn/masterdata/mDressAbilities
+^https://[a-zA-Z]*.cdn.aimia.dmmgames.com/(.*)/mUnits url 302 https://imys.xdrv.cn/masterdata/mUnits
+^https://[a-zA-Z]*.cdn.aimia.dmmgames.com/(.*)/mQuests url 302 https://imys.xdrv.cn/masterdata/mQuests
+^https://[a-zA-Z]*.cdn.aimia.dmmgames.com/(.*)/mTips url 302 https://imys.xdrv.cn/masterdata/mTips
+^https://[a-zA-Z]*.cdn.aimia.dmmgames.com/[0-9]*_[0-9]*/assetbundle/iOS/scenarios/ url 302 https://imys.xdrv.cn/scenarios/
+^https://[a-zA-Z]*.cdn.aimia.dmmgames.com/[0-9]*_[0-9]*/assetbundle/iOS/common/fonts/fot-hummingstd-b%20sdf url 302 https://imys.xdrv.cn/common/fonts/fot-hummingstd-b%20sdf
 
 
 [MITM]
