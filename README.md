@@ -1,5 +1,5 @@
 # IrisMysteria-Translate
-### 爱丽丝圣礼全文本汉化补丁，已包含梦之圣礼汉化组的所有内容，额外内容使用台服翻译  
+### 爱丽丝圣礼全文本汉化补丁，已包含梦之圣礼汉化组的所有内容，额外内容使用台服翻译，台服关服后（2022.12.01）使用百度翻译  
 ### [使用说明请见Wiki](https://github.com/greenjerry/IrisMysteria-CloudTranslate/wiki)
 ## 注意：
 * 禁止直播、录播安装了本补丁的游戏视频。
